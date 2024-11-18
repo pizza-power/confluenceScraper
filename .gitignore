@@ -1,0 +1,22 @@
+# Directories
+venv/
+loot/ 
+
+# IDE stuff
+.vscode/
+.idea/
+*.swp
+
+# Environment variables
+.env
+.env.*
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
