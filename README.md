@@ -1,4 +1,3 @@
-```markdown
 # confluenceScraper 
 
 ## Overview
