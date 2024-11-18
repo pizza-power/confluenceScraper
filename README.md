@@ -7,7 +7,8 @@ ConfluenceScraper is a Python script designed to search and extract information 
 ## Disclaimer
 
 - Use at your own risk
-- You may need to alter code for optimal usage
+- You may need to alter code for optimal usage. 
+- Code is possibly unfinished in places. 
 
 ## Features
 
