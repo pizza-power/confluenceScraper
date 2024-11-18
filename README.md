@@ -50,7 +50,7 @@ All required Python packages are listed in `requirements.txt`.
 
 ### Optional Arguments
 
-- `-p, --accesstoken <API_ACCESS_TOKEN>`: **Mandatory**. API access token for authentication.
+- `-p, --accesstoken <API_ACCESS_TOKEN>`: API access token for authentication, if needed.
 - `-w, --wordlist <WORDLIST_FILE_PATH>`: Path to a file containing keywords to search for. One keyword per line.
 - `-k, --keyword <SINGLE_KEYWORD>`: Specify a single keyword for the search.
 - `-s, --search-content`: If set, the script will extract and save content around the found keyword on each page.
