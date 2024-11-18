@@ -4,6 +4,8 @@
 
 ConfluenceScraper is a Python script designed to search and extract information from Confluence pages and attachments. It supports searching for keywords in page content, binary attachments (like PDFs, DOCX, XLSX, TXT files), and images using Optical Character Recognition (OCR). The script allows you to specify search terms, control the number of threads, limit results, and more.
 
+This can come in handy during penetration tests where you've obtained access to an organization's Confluence instance. Finding passwords and other sensitive information in Confluence is a frequent occurence. 
+
 ## Disclaimer
 
 - Use at your own risk
