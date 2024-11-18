@@ -82,7 +82,7 @@ And more!
     python3 ConfluenceScraper.py -c https://confluence.company.com -p myApiToken123 -k "search-term" -s -n 150
     ```
 5. **Run with OCR in images and max image search number**:
-       ```bash
+    ```bash
     python3 ConfluenceScraper.py -c https://confluence.company.com -p myApiToken123 -k "search-term" -s -i -m 5
     ```
 
